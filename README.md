@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kanchon here</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Kanchon Bishnu</h1>
+<h3 align="center">A passionate web developer besides a cyber security analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanchonbishnu" alt="kanchonbishnu" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FQj5rbG7bYSCiyt_pJsqphhYXvIAgXSW/view?usp=sharing](https://drive.google.com/file/d/1FQj5rbG7bYSCiyt_pJsqphhYXvIAgXSW/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am very funny😋**
+- ⚡ Fun fact **If there is a problem, there must be a solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
