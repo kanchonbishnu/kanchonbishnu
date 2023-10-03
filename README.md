@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kanchonkumar.bishnu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FQj5rbG7bYSCiyt_pJsqphhYXvIAgXSW/view?usp=sharing](https://drive.google.com/file/d/1FQj5rbG7bYSCiyt_pJsqphhYXvIAgXSW/view?usp=sharing)
+- 📄 Know about my experiences [https://getincard.com/kanchon_bishnu](https://getincard.com/kanchon_bishnu)
 
 - ⚡ Fun fact **If there is a problem, there must be a solver**
 
