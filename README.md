@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher 
 
 ## 🌟 About Me  
 - 🎓 **Master's in Computer Science** at **California State University, Los Angeles** *(Jul 2023 - Jun 2025)*  
-- 📊 Currently pursuing **Master's in Business Analytics** at **International American University, Los Angeles*  
 - 🖋️ **Published research** in **IEEE Access** in the fields of machine learning and artificial intelligence.  
 - 🔬 Hands-on experience with **web development**, **data science**, and **cybersecurity**.  
 - 🌐 Built **Sudaneses.com** website, mobile app, and payment gateway as part of an internship at Nubintek LLC.  
@@ -58,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher 
 
 ## 📬 Connect with Me  
 
-📧 **Email:** [kanchonkumar.bishnu@gmail.com](mailto:kanchonkumar.bishnu@gmail.com)  
+📧 **Email:** [kanchon@kanchonbishnu.com](mailto:kanchon@kanchonbishnu.com)  
 💼 **LinkedIn:** [linkedin.com/in/kanchonkumarbishnu](https://www.linkedin.com/in/kanchonkumarbishnu)  
 🌐 **GitHub:** [github.com/kanchonbishnu](https://github.com/kanchonbishnu)  
 
