@@ -1,40 +1,67 @@
-<h1 align="center">Hi 👋, I'm Kanchon Bishnu</h1>
-<h3 align="center">A passionate web developer besides a cyber security enthusiast</h3>
+# 👋 Hi, I'm **Kanchon Kumar Bishnu**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanchonbishnu" alt="kanchonbishnu" /></a> </p>
+### 🧑‍💻 Software Engineer | 🎓 Researcher | 🔒 Cybersecurity Enthusiast  
 
-- 🔭 I’m currently working on **problem solving**
+Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher with a focus on machine learning, cybersecurity, and innovative software solutions.  
 
-- 🌱 I’m currently learning **django**
+---
 
-- 👨‍💻 All of my projects are available at [kanchonbishnu.me](kanchonbishnu.me)
+## 🌟 About Me  
+- 🎓 **Master's in Computer Science** at **California State University, Los Angeles** *(Jul 2023 - Jun 2025)*  
+- 📊 Currently pursuing **Master's in Business Analytics** at **International American University, Los Angeles*  
+- 🖋️ **Published research** in **IEEE Access** in the fields of machine learning and artificial intelligence.  
+- 🔬 Hands-on experience with **web development**, **data science**, and **cybersecurity**.  
+- 🌐 Built **Sudaneses.com** website, mobile app, and payment gateway as part of an internship at Nubintek LLC.  
 
-- 💬 Ask me about **C, C++, Python**
+---
 
-- 📫 How to reach me **kanchonkumar.bishnu@gmail.com**
+## 🛠️ Skills  
 
-- 📄 Know about my experiences [https://getincard.com/kanchon_bishnu](https://getincard.com/kanchon_bishnu)
+### Programming  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-- ⚡ Fun fact **If there is a problem, there must be a solver**
+### Tools  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/g.dev/kanchonbishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/kanchonbishnu" height="30" width="40" /></a>
-<a href="https://twitter.com/kanchonkumarbi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanchonkumarbi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanchonkumarbishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanchonkumarbishnu/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14820953/kanchon-kumar-bishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14820953/kanchon-kumar-bishnu" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kanchonkumar.bishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kanchonkumar.bishnu/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kanchon_bishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kanchon_bishnu/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uncle & cousin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uncle & cousin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kanchon_11801116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kanchon_11801116" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kanchonbishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kanchonbishnu" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 💡 Projects  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchonbishnu&show_icons=true&locale=en&layout=compact" alt="kanchonbishnu" /></p>
+- 🚀 **[Heart Disease Prediction](https://github.com/kanchonbishnu/heart-disease-prediction)**: Built a machine learning model using Logistic Regression and Decision Trees to analyze medical datasets.  
+- 🌦️ **[Weather Forecasting](https://github.com/kanchonbishnu/weather-forecasting)**: Developed a decision tree classifier to predict weather conditions based on features like temperature, humidity, and wind speed.  
+- 🌸 **[Iris Flower Classification](https://github.com/kanchonbishnu/iris-knn)**: Applied KNN to classify flowers with hyperparameter tuning and accuracy evaluation.  
+- 💻 **Sudaneses.com Development**: Contributed to website, mobile app, and payment gateway development for Nubintek LLC.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchonbishnu&show_icons=true&locale=en" alt="kanchonbishnu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchonbishnu&" alt="kanchonbishnu" /></p>
+## 📃 Certifications  
+
+- 🛡️ **Cybersecurity Essentials** *(Cisco)*  
+- 🖥️ **NDG Linux Essentials** *(Linux Professional Institute)*  
+- 💻 **Open Source Software Development Specialization** *(Coursera)*  
+- 🔗 **Crash Course on Python** *(Google)*  
+
+---
+
+## 📊 GitHub Stats  
+
+![Kanchon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchonbishnu&show_icons=true&theme=radical&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchonbishnu&layout=compact&theme=radical)  
+
+---
+
+## 📬 Connect with Me  
+
+📧 **Email:** [kanchonkumar.bishnu@gmail.com](mailto:kanchonkumar.bishnu@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/kanchonkumarbishnu](https://www.linkedin.com/in/kanchonkumarbishnu)  
+🌐 **GitHub:** [github.com/kanchonbishnu](https://github.com/kanchonbishnu)  
+
+---
+
+💻 *Passionate about creating secure, innovative solutions. Let's collaborate and build something amazing together!*
