@@ -1,16 +1,20 @@
-# 👋 Hi, I'm **Kanchon Kumar Bishnu**  
+content = """# 👋 Hi, I'm **Kanchon Kumar Bishnu**  
 
-### 🧑‍💻 Software Engineer | 🎓 Researcher | 🔒 Cybersecurity Enthusiast  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Software+Engineer+💻;Researcher+🎓;Cybersecurity+Enthusiast+🔒;Always+curious%2C+always+building%2C+always+securing+✨)](https://git.io/typing-svg)  
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher with a focus on machine learning, cybersecurity, and innovative software solutions.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanchonbishnu&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+</p>  
 
 ---
 
 ## 🌟 About Me  
 - 🎓 **Master's in Computer Science** at **California State University, Los Angeles** *(Jul 2023 - Jun 2025)*  
-- 🖋️ **Published research** in **IEEE Access** in the fields of machine learning and artificial intelligence.  
+- 🖋️ **Published Q1-ranked research articles** in the fields of machine learning and artificial intelligence.  
+- 🏆 Holder of an **approved UK patent**.  
 - 🔬 Hands-on experience with **web development**, **data science**, and **cybersecurity**.  
 - 🌐 Built **Sudaneses.com** website, mobile app, and payment gateway as part of an internship at Nubintek LLC.  
+- 🔎 Reviewer for **Elsevier Q1 journals, PLOS ONE, and Journal of Alzheimer’s Disease**.  
 
 ---
 
@@ -35,6 +39,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher 
 - 🚀 **[Heart Disease Prediction](https://github.com/kanchonbishnu/heart-disease-prediction)**: Built a machine learning model using Logistic Regression and Decision Trees to analyze medical datasets.  
 - 🌦️ **[Weather Forecasting](https://github.com/kanchonbishnu/weather-forecasting)**: Developed a decision tree classifier to predict weather conditions based on features like temperature, humidity, and wind speed.  
 - 🌸 **[Iris Flower Classification](https://github.com/kanchonbishnu/iris-knn)**: Applied KNN to classify flowers with hyperparameter tuning and accuracy evaluation.  
+- 🧠 **[Stained Glass Art via Genetic Algorithm](https://github.com/kanchonbishnu/stained-glass-art)**: AI-driven creative project for CS5660 final project.  
 - 💻 **Sudaneses.com Development**: Contributed to website, mobile app, and payment gateway development for Nubintek LLC.  
 
 ---
@@ -45,6 +50,8 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher 
 - 🖥️ **NDG Linux Essentials** *(Linux Professional Institute)*  
 - 💻 **Open Source Software Development Specialization** *(Coursera)*  
 - 🔗 **Crash Course on Python** *(Google)*  
+- 🎖️ **Problem Solving (Basic)** *(HackerRank)*  
+- ✅ **Verified International Academic Qualifications** *(WES)*  
 
 ---
 
@@ -52,15 +59,22 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and researcher 
 
 ![Kanchon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchonbishnu&show_icons=true&theme=radical&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchonbishnu&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanchonbishnu&theme=radical)  
 
 ---
 
 ## 📬 Connect with Me  
 
-📧 **Email:** [kanchon@kanchonbishnu.com](mailto:kanchon@kanchonbishnu.com)  
+📧 **Email:** [kanchonbishnu@ieee.org](mailto:kanchonbishnu@ieee.org)  
 💼 **LinkedIn:** [linkedin.com/in/kanchonkumarbishnu](https://www.linkedin.com/in/kanchonkumarbishnu)  
 🌐 **GitHub:** [github.com/kanchonbishnu](https://github.com/kanchonbishnu)  
 
 ---
 
-💻 *Passionate about creating secure, innovative solutions. Let's collaborate and build something amazing together!*
+💻 *Always curious, always building, always securing.*  
+"""
+
+with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+"/mnt/data/README.md"
