@@ -1,4 +1,4 @@
-content = """# 👋 Hi, I'm **Kanchon Kumar Bishnu**  
+### 👋 Hi, I'm **Kanchon Kumar Bishnu**  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Software+Engineer+💻;Researcher+🎓;Cybersecurity+Enthusiast+🔒;Always+curious%2C+always+building%2C+always+securing+✨)](https://git.io/typing-svg)  
 
@@ -72,9 +72,4 @@ content = """# 👋 Hi, I'm **Kanchon Kumar Bishnu**
 ---
 
 💻 *Always curious, always building, always securing.*  
-"""
 
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-"/mnt/data/README.md"
